@@ -1,0 +1,12 @@
+{
+  "name": "vuviy/pattertns",
+  "description": "pattertns",
+  "require": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
